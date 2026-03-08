@@ -1,2 +1,1 @@
-# Typing-Speed
-A simple Python-based Water Reminder application that helps users stay hydrated by sending regular alerts to drink water. This project demonstrates basic Python concepts like loops, time intervals, and notifications while promoting healthy daily habits. 💧
+A Python-based Typing Speed Test application that measures a user's typing speed and accuracy. The program presents random text for typing and calculates Words Per Minute (WPM) and errors, helping users improve their typing skills while demonstrating Python programming concepts. ⌨️🚀
